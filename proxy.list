@@ -1,7 +1,0 @@
-# AUTHOR: Dmitry Lisin
-# REPO: https://github.com/dlisin/shadowrocket-config
-
-# Torrents
-DOMAIN-SUFFIX,nnmclub.to
-DOMAIN-KEYWORD,rutracker
-DOMAIN-KEYWORD,kinozal
